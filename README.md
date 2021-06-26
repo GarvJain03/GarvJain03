@@ -9,4 +9,4 @@ I have experience in Web Development using JavaScript and Python. I am also inte
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="50" height="50" /> 
 ---
 ### Stats
-[![Garv's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarvJain03)]
+![Garv's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarvJain03)

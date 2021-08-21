@@ -19,7 +19,7 @@ I have experience in Web Development using JavaScript and Python. I am also inte
 
 ---
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GarvJain03&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GarvJain03&theme=radical" />
 </span>
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvJain03&theme=radical" />

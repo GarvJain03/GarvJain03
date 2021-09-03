@@ -14,7 +14,8 @@ I have experience in Web Development using JavaScript and Python. I am also inte
 <li>Node.js</li>
 <li>Express</li>
 <li>Python</li>
-<li>Flask</li>
+<li>Flask</li>]
+<li>Django</li>
 <li>React.js</li>
 <li>MongoDB</li>
 <li>Next.js</li>

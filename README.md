@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Garv.
 
 
-I'm a student at Delhi Public School, RK Puram. I'm a member of my school's tech club [Exun](https://exunclan.com/) and the robotics club [RoboKnights](https://roboknights.in).
+I'm a student at Delhi Public School, RK Puram. I'm a part of my school's tech club [Exun](https://exunclan.com/) and the robotics club [RoboKnights](https://roboknights.in).
 
 ---
 
